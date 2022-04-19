@@ -1,6 +1,4 @@
-# MasterCode
-Code going into the final Drifter project
-# Project Name
+# Drifter
 The Drifter is a low cost self maintained water quality monitoring buoy. It takes a multitude of data 
 points such as water temperature, pH, and conductivity. Power is drawn from an internal battery along
 with a solar panel to recharge the battery. The said data is stored on a local SD Card as well as 
