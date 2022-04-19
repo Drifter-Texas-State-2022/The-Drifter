@@ -16,7 +16,7 @@ sent to a base station through LoRa radio signals.
 ## General info
 Add more general information about project. What the purpose of the project is? Motivation?
 
-## Screenshots
+## Drifter Team Logo
 ![Example screenshot](./img/drifterlogo.png)
 
 ## Technologies
