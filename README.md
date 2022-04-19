@@ -17,7 +17,7 @@ sent to a base station through LoRa radio signals.
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-./img/drifterlogo.png
+![Example screenshot](./img/drifterlogo.png)
 
 ## Technologies
 * Tech 1 - version 1.0
