@@ -6,7 +6,7 @@ sent to a base station through LoRa radio signals.
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Screenshots](#Drifter Team Logo)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
