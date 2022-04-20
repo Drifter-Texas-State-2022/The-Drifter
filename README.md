@@ -45,4 +45,4 @@ To-do list:
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Contacts
-Artests@gmail.com jacobhuntersmith@icloud.com jbm7630@gmail.com Rodolfomontero123@gmail.com
+Artests@gmail.com, jacobhuntersmith@icloud.com, jbm7630@gmail.com, Rodolfomontero123@gmail.com
