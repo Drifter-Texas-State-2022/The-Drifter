@@ -44,5 +44,5 @@ To-do list:
 ## Status
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
-## Contact
-jbm7630@gmail.com
+## Contacts
+Artests@gmail.com jacobhuntersmith@icloud.com jbm7630@gmail.com Rodolfomontero123@gmail.com
