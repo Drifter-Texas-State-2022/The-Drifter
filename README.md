@@ -32,24 +32,24 @@ Add more general information about project. What the purpose of the project is? 
 ## Code Examples
 All Used Libraries: 
 
-#include "Adafruit_EPD.h"
-#include "math.h"
-#include "Adafruit_INA219.h"
-#include "RTClib.h"
-#include <DHT.h>
-#include <SD.h>
-#include <SPI.h>
-#include <LoRa.h>
-#include <ESP32Time.h>
-#include <Wire.h>
-#include <Adafruit_LIS3DH.h>
-#include <Adafruit_Sensor.h>
-#include <OneWire.h>
-#include <DallasTemperature.h>
-#include <BLEDevice.h>
-#include <BLEServer.h>
-#include <BLEUtils.h>
-#include <BLE2902.h>
+* #include "Adafruit_EPD.h"
+* #include "math.h"
+* #include "Adafruit_INA219.h"
+* #include "RTClib.h"
+* #include <DHT.h>
+* #include <SD.h>
+* #include <SPI.h>
+* #include <LoRa.h>
+* #include <ESP32Time.h>
+* #include <Wire.h>
+* #include <Adafruit_LIS3DH.h>
+* #include <Adafruit_Sensor.h>
+* #include <OneWire.h>
+* #include <DallasTemperature.h>
+* #include <BLEDevice.h>
+* #include <BLEServer.h>
+* #include <BLEUtils.h>
+* #include <BLE2902.h>
 
 ESP32 Sleep Code Example:
 
