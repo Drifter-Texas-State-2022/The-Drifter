@@ -52,7 +52,7 @@ All Used Libraries:
 * #include <BLE2902.h>
 
 ESP32 Sleep Code Example:
-
+```
 void BeginSleep() {
   TimeAwake = (millis() - StartTime);
   long SleepTimer = (((SleepDuration * 60 ) * 1000000LL)- TimeAwake);
@@ -69,7 +69,7 @@ void BeginSleep() {
   Serial.println("\nGoing to sleep...");
   esp_deep_sleep_start();  // Sleep for e.g. 30 minutes
 }
-
+```
 ## Features
 List of features ready and TODOs for future development
 * Awesome feature 1
