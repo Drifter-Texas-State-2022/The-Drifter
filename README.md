@@ -70,18 +70,19 @@ void BeginSleep() {
   esp_deep_sleep_start();  // Sleep for e.g. 30 minutes
 }
 ```
+
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Bluetooth Communication
+* LoRa Communication
+* Internal Storage Via Micro SD Card
+* Solar Panel With Charging Capabilities for Maker Focus 3.7 Volt Lipo Battery
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* None
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is:  ***Finished***
 
 ## Contacts
 Artests@gmail.com, jacobhuntersmith@icloud.com, jbm7630@gmail.com, Rodolfomontero123@gmail.com
