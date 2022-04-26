@@ -5,17 +5,12 @@ with a solar panel to recharge the battery. The said data is stored on a local S
 sent to a base station through LoRa radio signals.
 
 ## Table of contents
-* [General Info](#general-info)
 * [Drifter Team Logo](#Drifter-Team-Logo)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
-
-## General info
-
-Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Drifter Team Logo
 ![Example screenshot](./img/drifterlogo.png)
