@@ -2,7 +2,7 @@
 The Drifter is a low cost self maintained water quality smart buoy. It takes a multitude of data 
 points such as water temperature, pH, and conductivity. Power is drawn from an internal battery along
 with a solar panel to recharge the battery. The said data is stored on a local SD Card and also 
-sent to a base station through LoRa radio signals.
+sent to a connected Bluetooth device or to a base station through LoRa radio signals.
 
 ## Table of contents
 * [Drifter Team Logo](#Drifter-Team-Logo)
