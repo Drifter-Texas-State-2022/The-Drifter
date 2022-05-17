@@ -68,11 +68,13 @@ void BeginSleep() {
 ```
 
 ## Features
-List of features ready and TODOs for future development
+List of features ready
 * Bluetooth Communication
 * LoRa Communication
 * Internal Storage Via Micro SD Card
-* Solar Panel With Charging Capabilities for Maker Focus 3.7 Volt Lipo Battery
+* Solar Panel With Charging Capabilities for Maker Focus 3.7V Lipo Battery
+* Sensors: External Temperature, Internal Temperature, pH, Accelerometer, 
+* External Time Clock, Conductivity, Total Dissolved Solids, and Salinity
 
 To-do list:
 * None
